@@ -1,0 +1,29 @@
+Introduction:
+The movie ticket booking system is an application that enables customers to book movie tickets online. The system should provide a user-friendly interface for customers to select a movie, pick a date and time, select seats, and pay for the tickets online. The objective of this project is to create a simple movie ticket booking system using the C language.
+
+Project Scope:
+The scope of the project is to create a movie ticket booking system that can be used by customers to book movie tickets online. The system should have a login module for user authentication. Customers should be able to select the movie of their choice, pick a date and time, select seats, and pay for the tickets online. The system should also provide a feature for customers to cancel their bookings if they are unable to attend the movie. The admin module should enable system administration, allowing the admin to manage the list of movies, showtimes, and seats available for booking. The admin should also be able to view booking details and manage customer accounts. Finally, the report module should generate reports on daily or monthly bookings, cancellations, and payments. It should also provide statistics on the most popular movies and seats.
+Project Description:
+A movie ticket booking system is an application that enables customers to book movie tickets online. Customers can select the movie of their choice, pick a date and time, select seats, and pay for the tickets online. The system should also provide a feature for customers to cancel their bookings if they are unable to attend the movie. The objective of this project is to create a simple movie ticket booking system using the C language.
+
+Module Explanation:
+
+Login Module: This module is used for user authentication. The customer needs to enter their username and password to access the booking system.
+
+Movie Selection Module: This module enables customers to select the movie of their choice from the list of movies available.
+
+Show Time Selection Module: This module enables customers to choose the date and time of the movie they want to watch.
+
+Seat Selection Module: This module allows customers to select the seats they want to book for the movie.
+
+Payment Module: This module is used for payment processing. Customers can make payment through various payment options available.
+
+Booking Confirmation Module: This module confirms the booking details, including the movie, date, time, and seat number.
+
+Cancellation Module: This module enables customers to cancel their bookings if they are unable to attend the movie.
+
+Admin Module: This module is used for system administration. The admin can manage the list of movies, showtimes, and seats available for booking. The admin can also view booking details and manage customer accounts.
+
+Report Module: This module generates reports on daily or monthly bookings, cancellations, and payments. It also provides statistics on the most popular movies and seats.
+Conclusion:
+Overall, the movie ticket booking system project in C language should be able to provide a user-friendly interface for customers to book their movie tickets online easily. The system should also be able to generate reports and statistics to help the admin manage the system more efficiently.

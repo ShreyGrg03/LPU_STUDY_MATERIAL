@@ -1,0 +1,23 @@
+Introduction:
+The project is aimed at developing an online voting system using the C language. The online voting system will allow users to register, login, choose positions for voting, give their vote, and update their profile. The purpose of this pre-submission report is to provide an overview of each module of the project and the online voting system as a whole.
+
+Online Voting System:
+An online voting system is a platform that allows voters to cast their vote electronically over the internet. The system can be used for both public and private elections, and it can provide several advantages such as increased accessibility, security, and efficiency. However, it also comes with some potential drawbacks like possible security breaches and technical issues.
+
+Module 1: Registration
+The registration module will allow new users to create an account on the online voting system. The users will be required to provide some basic personal information, such as their name, address, and email address, and create a username and password. The registration module should also verify the user's email address to ensure the validity of the registration.
+
+Module 2: Login/Logout
+The login module will enable registered users to access the online voting system by providing their username and password. The login module will also ensure that the user's credentials are authenticated before they are granted access to the system. The logout module will allow the user to log out of the system after they have completed their tasks.
+
+Module 3: Update Profile
+The update profile module will allow users to modify their personal information and update their profile. The module should enable the user to change their email address, address, or password. This module is necessary to ensure that the user's information is up-to-date and accurate.
+
+Module 4: Choose Positions for Voting
+The choose positions for voting module will enable the user to select the positions they want to vote for. The positions can be grouped according to different categories such as political parties, school offices, or sports teams. The module should provide the user with an overview of the available positions, including the candidates running for each position.
+
+Module 5: Give Vote
+The give vote module will enable the user to cast their vote for the chosen position. The module should ensure that the user can vote only once for each position and that the vote is recorded accurately. The module should also provide a confirmation to the user that their vote has been cast successfully.
+
+Conclusion:
+In conclusion, the online voting system project consists of five modules, including registration, login/logout, update profile, choose positions for voting, and give vote. Each module plays an essential role in the overall functionality of the system. The project aims to develop a secure and efficient online voting system that can be used for public or private elections.

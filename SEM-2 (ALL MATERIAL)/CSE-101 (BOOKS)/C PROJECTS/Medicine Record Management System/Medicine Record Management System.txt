@@ -1,0 +1,24 @@
+Pre-Project Submission Report: Medicine Record Management System in C Language
+
+Introduction:
+The Medicine Record Management System is a software tool designed to manage medicine records of a pharmacy or a hospital. The system will provide a user-friendly interface for the pharmacist or the medical staff to manage inventory, record patient prescriptions, and generate reports. The purpose of this project is to create a Medicine Record Management System using C programming language.
+
+Module Explanation:
+
+Input Module:
+The input module will be responsible for taking input from the user, such as new medicine information, patient prescription details, and inventory updates. It will also allow the user to search for specific records and edit or delete them.
+
+Database Module:
+The database module will be responsible for storing all medicine records, patient prescription details, and inventory information. It will allow the user to retrieve and modify this information as needed.
+
+Report Generation Module:
+The report generation module will generate various reports for the user, such as inventory reports, prescription reports, and medicine expiration reports.
+
+Alert Module:
+The alert module will be responsible for sending alerts to the user when a medicine is about to expire or when the inventory reaches a critical level.
+
+User Management Module:
+The user management module will manage user access and permissions. It will allow the administrator to create new user accounts, delete accounts, and set user roles and permissions.
+
+Conclusion:
+The Medicine Record Management System project in C language aims to manage medicine records of a pharmacy or hospital. The input module will take input from the user, the database module will store all medicine records, the report generation module will generate various reports, the alert module will send alerts to the user, and the user management module will manage user access and permissions. This project will simplify the process of managing medicine records, improve accuracy, and reduce errors.
