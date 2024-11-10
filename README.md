@@ -39,9 +39,7 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 
 
 ## Semester 4 🌈
-## 1. Choose Minor
-These are courses from the minor specialization that you can choose based on your interests.
-
+## 1. CHOOSE MINOR
 ### 1.1 **Computer Networks**
 - **CSE306:** Computer Networks
 
