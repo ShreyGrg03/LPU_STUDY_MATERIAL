@@ -3,7 +3,7 @@
 Included all the subjects studied under B.Tech. (Computer Science and Engineering - P132) batch 2022. I've attached all the course materials—notes, papers, books, and other resources—that I collected myself.I hope these will be helpful in understanding the concepts and help with your studies.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://link-to-first-gif.gif" alt="First GIF" style="width: 250px; height: auto;">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="First GIF" style="width: 250px; height: auto;">
   <img src="https://link-to-second-gif.gif" alt="Second GIF" style="width: 250px; height: auto;">
 </div>
 
