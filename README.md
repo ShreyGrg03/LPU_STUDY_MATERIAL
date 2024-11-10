@@ -39,9 +39,10 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 
 
 ## Semester 4 🌈
-## 1. CHOOSE MINOR
-### 1.1 **Computer Networks**
-- **CSE306:** Computer Networks
+
+## CHOOSE MINOR
+    ### 1.FULL STACK WEB DEVELOPMENT
+         - **INT219:** Computer Networks
 
 ### 1.2 **Internetworking Essentials**
 - **CSE307:** Internetworking Essentials
