@@ -41,7 +41,7 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 ## Semester 4 🌈
 
 ## CHOOSE MINOR
-   ### - **FULL STACK WEB DEVELOPMENT
+### FULL STACK WEB DEVELOPMENT
     INT219:FRONT END WEB DEVELOPER
     INT222:ADVANCED WEB DEVELOPMENT
     CSE310:PROGRAMMING IN JAVA
