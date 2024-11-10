@@ -1,5 +1,4 @@
-<img src="n.gif" width="100%"> 
-# LPU-Study-Materials 📚✨
+ # LPU-Study-Materials 📚✨
 
 Included all the subjects which i studied(BTECH CSE - P132L ). I had attached for 1st year materials which was taken from my firends. I hope it may helpful to learn concepts for your studies. 
 - **Star this repo if you find this materials are helpful**
@@ -81,3 +80,4 @@ Note:
 2. If anyone wants to add other course in this repo. Please contact me or request through github.
 3. Last semester materials are not uploaded. I will upload after this semester. 
 ```
+<img src="n.gif" width="100%">
