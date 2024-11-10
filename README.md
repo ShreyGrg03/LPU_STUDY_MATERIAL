@@ -37,7 +37,7 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 - **GEN231 :** COMMUNITY DEVELOPMENT PROJECT (CDP)
 - **MTH302 :** PROBABILITY AND STATISTICS
 
-```
+
 ## Semester 4 🌈
 ## 1. Choose Minor
 These are courses from the minor specialization that you can choose based on your interests.
@@ -62,23 +62,20 @@ These courses form the fundamental curriculum of the program.
 
 ### 2.3 **Algorithms**
 - **CSE408:** Design and Analysis of Algorithms
-
 ### 2.4 **Mathematics**
 - **MTH302:** Probability and Statistics
 
 ## 3. Laboratories
 Practical hands-on experience through lab courses.
-
 ### 3.1 **Operating Systems Laboratory**
 - **CSE325:** Operating Systems Laboratory
 
 ## 4. Verbal Ability Courses
 Courses designed to improve language and communication skills.
-
 ### 4.1 **Verbal Ability - I**
 - **PEV106:** Verbal Ability-I
 
-```
+
 
 ## Semester 5 🚀
 - **CSE224 :** FUNDAMENTALS OF ANDROID
