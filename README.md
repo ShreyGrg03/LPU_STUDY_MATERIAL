@@ -41,9 +41,9 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 ## Semester 4 🌈
 
 ## CHOOSE MINOR
-   ### 1.FULL STACK WEB DEVELOPMENT
-         - INT219:FRONT END WEB DEVELOPER
-         - INT219:FRONT END WEB DEVELOPER
+   ### FULL STACK WEB DEVELOPMENT
+    INT219:FRONT END WEB DEVELOPER
+    INT219:FRONT END WEB DEVELOPER
          - INT219:FRONT END WEB DEVELOPER
          
 
