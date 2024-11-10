@@ -80,4 +80,4 @@ Note:
 2. If anyone wants to add other course in this repo. Please contact me or request through github.
 3. Last semester materials are not uploaded. I will upload after this semester. 
 ```
-<img src="n.gif" width="100%">
+<img src="https://github.com/ShreyGrg03/ShreyGrg03/blob/472634287d7e70df235c2c2273eb873eca3f3c9a/n.gif" width="100%">
