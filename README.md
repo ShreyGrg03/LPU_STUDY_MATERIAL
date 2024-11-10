@@ -1,3 +1,4 @@
+<img src="n.gif" width="100%"> 
 # LPU-Study-Materials 📚✨
 
 Included all the subjects which i studied(BTECH CSE - P132L ). I had attached for 1st year materials which was taken from my firends. I hope it may helpful to learn concepts for your studies. 
