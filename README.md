@@ -1,7 +1,12 @@
  # LPU Study Materials 📚✨
 
-Included all the subjects studied under B.Tech. (Computer Science and Engineering - P132). I had attached for 1st year materials which was taken from my firends. I hope it may helpful to learn concepts for your studies. 
-- **Star this repo if you find this materials are helpful**
+Included all the subjects studied under B.Tech. (Computer Science and Engineering - P132) batch 2022. I've attached all the course materials—notes, papers, books, and other resources—that I collected myself.I hope these will be helpful in understanding the concepts and help with your studies.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://link-to-first-gif.gif" alt="First GIF" style="width: 250px; height: auto;">
+  <img src="https://link-to-second-gif.gif" alt="Second GIF" style="width: 250px; height: auto;">
+</div>
+
 
 ## Semester 1 🌈
 - **CSE111 :** ORIENTATION TO COMPUTING-I
