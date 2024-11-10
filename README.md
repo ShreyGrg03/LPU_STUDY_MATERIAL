@@ -37,17 +37,48 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 - **GEN231 :** COMMUNITY DEVELOPMENT PROJECT (CDP)
 - **MTH302 :** PROBABILITY AND STATISTICS
 
-
+```
 ## Semester 4 🌈
-- **CSE306 :** COMPUTER NETWORKS
-- **CSE307 :** INTERNETWORKING ESSENTIALS
-- **CSE310 :** PROGRAMMING IN JAVA
-- **CSE316 :** OPERATING SYSTEMS
-- **CSE325 :** OPERATING SYSTEMS LABORATORY
-- **CSE408 :** DESIGN AND ANALYSIS OF ALGORITHMS
-- **INT404 :** ARTIFICIAL INTELLIGENCE
-- **MTH302 :** PROBABILITY AND STATISTICS
-- **PEV106 :** VERBAL ABILITY-I
+## 1. Choose Minor
+These are courses from the minor specialization that you can choose based on your interests.
+
+### 1.1 **Computer Networks**
+- **CSE306:** Computer Networks
+
+### 1.2 **Internetworking Essentials**
+- **CSE307:** Internetworking Essentials
+
+### 1.3 **Artificial Intelligence**
+- **INT404:** Artificial Intelligence
+
+## 2. Core Courses
+These courses form the fundamental curriculum of the program.
+
+### 2.1 **Programming and Development**
+- **CSE310:** Programming in Java
+
+### 2.2 **Operating Systems**
+- **CSE316:** Operating Systems
+
+### 2.3 **Algorithms**
+- **CSE408:** Design and Analysis of Algorithms
+
+### 2.4 **Mathematics**
+- **MTH302:** Probability and Statistics
+
+## 3. Laboratories
+Practical hands-on experience through lab courses.
+
+### 3.1 **Operating Systems Laboratory**
+- **CSE325:** Operating Systems Laboratory
+
+## 4. Verbal Ability Courses
+Courses designed to improve language and communication skills.
+
+### 4.1 **Verbal Ability - I**
+- **PEV106:** Verbal Ability-I
+
+```
 
 ## Semester 5 🚀
 - **CSE224 :** FUNDAMENTALS OF ANDROID
