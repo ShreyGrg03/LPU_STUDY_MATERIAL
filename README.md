@@ -35,6 +35,8 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 - **CSE325 :** OPERATING SYSTEMS LABORATORY
 - **PEL134 :** UPPER INTERMEDIATE COMMUNICATION SKILLS-II
 - **GEN231 :** COMMUNITY DEVELOPMENT PROJECT (CDP)
+- **MTH302 :** PROBABILITY AND STATISTICS
+
 
 ## Semester 4 🌈
 - **CSE306 :** COMPUTER NETWORKS
