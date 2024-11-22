@@ -4,7 +4,7 @@ Included all the subjects studied under B.Tech. (Computer Science and Engineerin
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="First GIF" style="width: 250px; height: auto;">
-  <img src="https://github.com/ShreyGrg03/ShreyGrg03/blob/9df4e5c73a1ac909c90423f9c3890e26e88bfdff/s.mp4" alt="Second GIF" style="width: 500px; height: auto;">
+  <img src="#" alt="Second GIF" style="width: 500px; height: auto;">
 </div>
 
 
